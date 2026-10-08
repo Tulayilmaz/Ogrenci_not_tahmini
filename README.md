@@ -1,3 +1,7 @@
+> ⚠️ **Not:** GitHub'ın Jupyter Notebook dosyalarını görüntülerken yaşadığı teknik sorunlar nedeniyle, kodları ve analiz çıktılarını (tablolar/skorlar) tam formatıyla görmek için lütfen aşağıdaki linke tıklayın:
+> 
+> 👉 **[Proje Notebook'unu Görüntüle (Nbviewer)](https://nbviewer.org/github/Tulayilmaz/Ogrenci_not_tahmini
+/blob/main/analiz.ipynb)**
 # 🎓 Student Performance Prediction & Early Warning System
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue.svg)
